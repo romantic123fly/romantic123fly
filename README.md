@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 你好，朋友 👋
 
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
+- :orange_book: Focusing on Unity & C#
+- :hammer: Creator of Applications and Game
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
