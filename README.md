@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 
 - :orange_book: Focusing on Unity & C#
 - :hammer: Creator of Applications and Game
-- :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
